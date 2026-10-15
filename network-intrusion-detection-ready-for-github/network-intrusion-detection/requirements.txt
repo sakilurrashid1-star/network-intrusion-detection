@@ -1,0 +1,7 @@
+# Add exact versions from the environment used to run the original notebook.
+# Suggested core dependencies (verify against the notebook before pinning versions):
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
